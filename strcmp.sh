@@ -1,5 +1,3 @@
-#!/bin/sh
-
 if [ $# = 0 ]; then
     echo "error: nothing arguments"
 elif [ $# = 1 ]; then
